@@ -97,8 +97,9 @@ ul li:active{
 	font-size: 50px;
 }
 .box > p{
-	margin-top: -40px;
-	letter-spacing: 2px;
+	margin-top: -30px;
+	letter-spacing: 3px;
+	margin-left: -40px;
 }
 .about{
 	height: 700px;
